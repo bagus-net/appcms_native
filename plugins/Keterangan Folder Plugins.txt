@@ -1,0 +1,13 @@
+Jika pada folder plugins ini kosong (tidak ada file plugins), maka Kamu harus download sendiri di
+
+Buka 
+
+http://www.bunafit-komputer.com/download/tools/
+
+Download file plugins.zip
+
+Lalu ekstrak filenya ke dalam program anda, 
+sehingga folder plugins sudah dilengkapi file/ folder JavaScript pendukung
+- tigra_calendar  (folder)
+- js.popupWindow.js (file)
+- js.autoSubmit.js (file)
